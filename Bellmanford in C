@@ -1,0 +1,71 @@
+#include <stdio.h>
+#include <stdlib.h>
+void BellmanFord(int matriz[100][100][2],int origem,int destino, int N){
+int dist[N];
+int flag = 0;
+    // Setando todas as distâncias para o máx
+    for (int i = 0; i < N; i++) {
+        dist[i] = 999;
+    }
+    dist[origem] = 0;
+
+    // Testar arestas
+    for (int i = 0; i < N - 1; i++) {
+        for (int u = 0; u < N; u++) {
+            for (int v = 0; v < N; v++) {
+                if (matriz[u][v][0] == 1 && dist[u] != 999 && (dist[u] + matriz[u][v][1]) < dist[v]) {
+                    dist[v] = dist[u] + matriz[u][v][1];
+                }
+            }
+        }
+    }
+
+    // Checar por ciclos negativos
+    for (int u = 0; u < N; u++) {
+        for (int v = 0; v < N; v++) {
+            if (matriz[u][v][0] == 1 && dist[u] != 999 && dist[u] + matriz[u][v][1] < dist[v]) {
+                printf("grafo contem ciclo negativo\n");
+                flag = 1;
+            }
+        }
+    }
+    // se não tiver ciclo, printa a distância
+    if(flag == 0){
+        printf("\nA distancia do vértice %d e %d é %d",origem+1,destino+1,dist[destino]);
+    }
+}
+
+
+void main(){
+FILE *f;
+int matriz[100][100][2] ={{{0}}};
+int h=0,i=0,j=0,k=0;
+int N=0,M=0,Q=0,x=0,y=0;
+
+f = fopen("entrada.txt","r");
+if(f == NULL){
+    printf("Erro ao abrir o arquivo.");
+    exit(0);
+}
+
+fscanf(f, "%d %d", &N, &M);
+
+for(k=0;k<M;k++){
+    fscanf(f, "%d %d %d", &i, &j, &h);
+    i--;
+    j--;
+    matriz[i][j][0] = 1;
+    matriz[i][j][1] = h;
+}
+
+fscanf(f,"%d",&Q);
+
+for(k=0;k<Q;k++){
+    fscanf(f, "%d %d", &x, &y);
+    x--;
+    y--;
+    BellmanFord(matriz,x,y,N);
+    printf("\n");
+}
+fclose(f);
+}
