@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RafaelJMartini
-- 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Data Structures
-- 📫 How to reach me rafa.martini1102@gmail.com
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Python and Power BI
+- 📫 How to reach me rafa.martini1102@gmail.com or rafael.martini1102@gmail.com
 
 
 <!---
