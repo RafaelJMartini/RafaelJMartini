@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelJMartini
-- 🌱 I’m currently learning Python and Power BI
-- 📫 How to reach me rafa.martini1102@gmail.com or rafael.martini1102@gmail.com
+- 🌱 Currently learning Python and Power BI
+- 📫 How to reach me: rafa.martini1102@gmail.com or rafael.martini1102@gmail.com
 
 
 <!---
