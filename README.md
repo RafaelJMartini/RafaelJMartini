@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelJMartini
 - 🌱 Currently learning Python and Power BI
 - 📫 How to reach me: rafa.martini1102@gmail.com or rafael.martini1102@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/rafael-martini-a50653270/
 
 <!---
 RafaelJMartini/RafaelJMartini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
