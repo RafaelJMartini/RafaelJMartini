@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelJMartini
 - 🌱 Currently learning Flask
-- 📫 How to reach me: rafa.martini1102@gmail.com or rafael.martini1102@gmail.com
+- 📫 How to reach me: rafa.martini1102@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rafael-martini-a50653270/
 
 <!---
