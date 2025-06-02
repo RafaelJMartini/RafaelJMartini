@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaelJMartini
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />Currently learning Django
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="45" height="45"/>Currently learning Django
 - 📫 How to reach me: rafa.martini1102@gmail.com
 - <a href="https://www.linkedin.com/in/rafael-martini-a50653270/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>: 
 
