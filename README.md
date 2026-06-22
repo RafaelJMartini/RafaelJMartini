@@ -1,6 +1,4 @@
-- 👋 Hi, my name is Rafael João Martini
 - 🌱 Currently learning Django
-- 📫 How to reach me: rafa.martini1102@gmail.com
 
 <a href="https://www.linkedin.com/in/rafael-martini-a50653270/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
 
