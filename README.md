@@ -1,4 +1,4 @@
-- 🌱 Currently learning Django
+- Aluno da Universidade de Caxias do Sul (UCS)
 
 <a href="https://www.linkedin.com/in/rafael-martini-a50653270/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
 
@@ -12,9 +12,3 @@ Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
-
-
-<!---
-RafaelJMartini/RafaelJMartini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
